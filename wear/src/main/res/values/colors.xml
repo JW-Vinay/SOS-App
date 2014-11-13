@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gray_1">#b6b6b6</color>
+    <color name="blue_1">#0092b2</color>
+    <color name="blue_2">#055f70</color>
+
+    <color name="semi_transparent">#30000000</color>
+    <color name="blue_3">#300092b2</color>
+    <color name="blue_4">#30055f70</color>
+    <color name="gray_2">#d8d8d8</color>
+</resources>

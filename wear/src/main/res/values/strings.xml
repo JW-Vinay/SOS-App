@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOS</string>
+
+    <string name="click_me">Click Me</string>
+    <string name="sending">Sending SMS</string>
+    <string name="connectin">Connecting to device</string>
+</resources>
